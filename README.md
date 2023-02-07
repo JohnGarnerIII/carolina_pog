@@ -1,4 +1,4 @@
-## Carolina PoG
+# Carolina PoG
 
 ## A brief description of the mod and what it does.
 Installation
